@@ -16,3 +16,5 @@ with app.app_context():
 
 
 app.run(debug=True)
+
+print('hello')
